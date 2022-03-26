@@ -1,4 +1,4 @@
-## How to Install Homebrew on MacBookPro 14 (MacOS Monterey)
+## How to Install Homebrew to MacBookPro 14 (MacOS Monterey)
 (1)You need to open "Terminal" and excute the following commands.
 <br>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 <br>(2)Enter **Your Mac Login Password.**
