@@ -8,4 +8,4 @@
 <br>(5)Prompts are displayed again, Instalation was completed.
   
 ## How to add Homebrew to your PATH (**In the case of using Apple Silicon Mac**)
-<br>
+<br>(1)You should select a correct path.
