@@ -9,3 +9,4 @@
   
 ## How to add Homebrew to your PATH (**In the case of using Apple Silicon Mac**)
 <br>(1)You should select a correct path.
+<br>(2)Next step, put commands.
